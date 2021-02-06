@@ -3,8 +3,7 @@
     "functions": {
         "api/index.php": {
             "runtime": "vercel-php@0.4.0",
-            "excludeFiles": "node_modules",
-            "memory": 128
+            "memory": 512
         }
     },
     "routes": [{
